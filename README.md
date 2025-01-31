@@ -1,4 +1,4 @@
-# Hi there, I'm Bradley! 👋 
+# Hi there, I'm Adrian! 👋 
 
 Welcome to my GitHub profile! I'm a data-driven problem solver passionate about **quantitative analysis, data-driven decision-making, and web development. My primary interests lie in statistical modeling, financial data analysis, and algorithmic optimization**, and I enjoy applying computational techniques to uncover insights from complex datasets.
 
