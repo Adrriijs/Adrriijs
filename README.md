@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a data-driven problem solver passionate about 
 * 🏗️ Building interactive dashboards and web applications to visualize complex data effectively.
 * 🤝 Looking to collaborate on projects related to quantitative analysis, algorithmic trading, and financial modeling.
 * 🧐 Seeking guidance on advanced data structures, optimization techniques, and reinforcement learning in quantitative finance.
-* 📬 How to reach me: [adrrii.joseph07@gmail.com] or connect with me on Instagram : @adrrii_s.
+* 📬 How to reach me: [adrrii.joseph07@gmail.com] or connect with me on Instagram [@adrrii_s].
 * 😀 Pronouns: He/Him
 * 🎯 Fun fact: I enjoy deconstructing complex datasets, building statistical models, and applying mathematical concepts to real-world problems.
 
@@ -37,8 +37,7 @@ Welcome to my GitHub profile! I'm a data-driven problem solver passionate about 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrriijs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📮 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:adrrii.joseph07@gmail.com)
 
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. Have a great day! 😊
